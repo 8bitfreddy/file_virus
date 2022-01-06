@@ -36,24 +36,12 @@ clone()
 # cipher_file()
 
 
-
-
-
-
-
-
-
-
-
 '''
 
 file = open('file.txt')
 for line in file:
     print(line)
 '''
-
-
-
 
 #print(os.path.dirname(__file__))
 
